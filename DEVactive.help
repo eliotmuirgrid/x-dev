@@ -1,0 +1,7 @@
+{
+    "Description": "<p><br></p>",
+    "Name": "DEVactive",
+    "Parameters": null,
+    "ParameterTable": false,
+    "SummaryLine": "Returns true if component is in Development mode"
+}
