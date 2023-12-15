@@ -1,5 +1,5 @@
 {
-    "Description": "<p><br></p>",
+    "Description": "<p>Very easy to use:</p><p><br></p><pre class=\"ql-syntax\" spellcheck=\"false\">local IsDev = DEVactive();\n</pre><p><br></p><p>This is helpful in the mini web application framework.</p>",
     "Name": "DEVactive",
     "Parameters": null,
     "ParameterTable": false,
