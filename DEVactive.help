@@ -1,5 +1,5 @@
 {
-    "Description": "<p>Very easy to use:</p><p><br></p><pre class=\"ql-syntax\" spellcheck=\"false\">local IsDev = DEVactive();\n</pre><p><br></p><p>This is helpful in the mini web application framework.</p>",
+    "Description": "<pre class=\"ql-syntax\" spellcheck=\"false\">DEVactive()\n</pre><p><br></p><p>Very easy to use.</p><p><br></p><p>This is helpful in the mini web application framework.</p><p><br></p><p><strong>RETURNS</strong></p><p><br></p><ul><li>Returns true if component is in Development mode. <em><u>boolean</u></em></li></ul><p><br></p><p><strong>EXAMPLE</strong></p><p><br></p><pre class=\"ql-syntax\" spellcheck=\"false\">local IsDev = DEVactive();\n</pre><p><br></p><p><br></p>",
     "Name": "DEVactive",
     "Parameters": null,
     "ParameterTable": false,
